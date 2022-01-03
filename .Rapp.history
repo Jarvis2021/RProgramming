@@ -1,0 +1,77 @@
+mean(mtcars$mpg)
+getwd()
+demo()
+getwd()
+clear
+getwd()
+myfunction)
+myfunction()
+ls
+ls()
+myfunction <- function(x) {#
+	y <- rnorm(100)#
+	mean(y)#
+}
+ls
+ls()
+myfunction()
+getwd()
+ls()
+dir()
+source("myfunction.R")
+source("myfunction.R")
+ls()
+second(4)
+second(4)
+second(4)
+second(4)
+x<- 1
+print(x)
+msg <- "hello"
+print(msg)
+x
+c()
+ls()
+ls()
+print(x)
+y
+ls()
+ls()
+x<-c(0.6,0.7)
+x
+print(x)
+x <- 9:29
+x
+x < 1:20
+x
+x<-1:20
+x
+x <- vector("numeric", length = 10)
+x
+x<-c("a","b","c")
+x
+x <- vector("1", length = 10)
+x<-c(TRUE,2)
+x
+x <- (1.7, "a")
+x
+x <- c(1.7, "a")
+x
+x<-0.6
+class(x)
+as.char(x)
+as.character(x)
+x<-4L
+class(x)
+x <- c(4, TRUE)
+class(x)
+x <- c(1,3, 5)
+y <- c(3, 2, 10)
+rbind(x, y)
+x <- list(2, "a", "b", TRUE)
+x[[2]]
+x <- 1:4
+x
+y <- 2
+x+y
+x <- c(17, 14, 4, 5, 13, 12, 10)
